@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "8ba451b76ba4411e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f879632340532065",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Permanent notes/Autonome Drohne Produktiterationen.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da1868d044b47974",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd34913bebc9f86d",
+        "type": "tabs",
+        "dimension": 66.36546184738955,
+        "children": [
+          {
+            "id": "2d54de1a1e3f8a53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e87d04576bb9ed94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "abstandssen",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a50c2146000184f9",
+        "type": "tabs",
+        "dimension": 33.634538152610446,
+        "children": [
+          {
+            "id": "c78c77e1f22f0eea",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Permanent notes/Autonome Drohne Produktiterationen.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.40215209457034407,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2985fb54e06aafe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe6424e826a6c594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78576fa0f2550a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permanent notes/Autonome Drohne Produktiterationen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d06abdad1d561bf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permanent notes/Autonome Drohne Produktiterationen.md"
+              }
+            }
+          },
+          {
+            "id": "3254e4baf335e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f879632340532065",
+  "lastOpenFiles": [
+    "Permanent notes/Autonome Drohne Produktiterationen.md",
+    "Permanent notes/Studienarbeit autonome Drohnen.md",
+    "Permanent notes/Vergleich von Sensoren für autonome Drohnen.md",
+    "Literature notes/@soymTOF101202021.md",
+    "Literature notes/@TOF10120ToFTime.md",
+    "Permanent notes/TODO Studienarbeit.md",
+    "Permanent notes/Digitale Signalverarbeitung Hausarbeit.md",
+    "Permanent notes/Studienarbeit autonome Drohnen PSP.md",
+    "Permanent notes/Autonome Drohne Systemdesign.md",
+    "Fleeting notes/TODO FPGA Hausarbeit.md"
+  ]
+}

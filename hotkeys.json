@@ -1,0 +1,12 @@
+{
+  "templater-obsidian:Templates/Physikalisches Konzept.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:delete-paragraph": []
+}

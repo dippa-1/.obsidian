@@ -1,0 +1,19 @@
+{
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "vimMode": true,
+  "showFrontmatter": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "attachmentFolderPath": "assets",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": false
+}
